@@ -62,16 +62,19 @@ I'm a Software Engineer from Chile
 
 ## I'm currently learning / working on 📝
 
-Currently working in private projects 🤐
+ASP.NET Web APIs 
 
+<!-- 
 ## Contact 📢
 
 <p> 
   <a href="https://twitter.com/epg_117">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <!--<img src="https://profile-counter.glitch.me/ppizarror/count.svg" style="display: none" />-->
-</p>
+  <!--<img src="https://profile-counter.glitch.me/ppizarror/count.svg" style="display: none" />
+</p> 
+
+-->
 
 <!--
 **Erziok/Erziok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
