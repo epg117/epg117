@@ -34,6 +34,7 @@ I'm a Software Engineer from Chile
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img alt="Laravel" src="https://img.shields.io/badge/laravel-FF2C1F?style=for-the-badge&logo=laravel&logoColor=white" />
   <img alt=".NET" src="https://img.shields.io/badge/.net-8427f5?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-adaca8?style=for-the-badge&logo=sqlite&logoColor=white" />
 
 </p>
 
@@ -41,10 +42,13 @@ I'm a Software Engineer from Chile
 
 <p align="left">
 
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-0077B5?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white" />
-  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-773ec2?style=for-the-badge&logo=Visual%20Studio&logoColor=white" />
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-0077B5?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-773ec2?style=for-the-badge&logo=visualstudio&logoColor=white" />
   <img alt="Office" src="https://img.shields.io/badge/Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
   <img alt="Office" src="https://img.shields.io/badge/Google%20Colab-525252?style=for-the-badge&logo=google-colab&logoColor=orange" />
+  <img alt="Office" src="https://img.shields.io/badge/SQL%20Server-f29111?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img alt="Office" src="https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="Office" src="https://img.shields.io/badge/PostgreSQL-0064a5?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 </p>
 
