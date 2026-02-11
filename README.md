@@ -62,7 +62,7 @@ I'm a Software Engineer from Chile
 
 ## I'm currently learning / working on 📝
 
-ASP.NET Web APIs 
+ASP.NET Web APIs <br>
 Learning about Linux
 
 <!-- 
