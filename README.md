@@ -63,6 +63,7 @@ I'm a Software Engineer from Chile
 ## I'm currently learning / working on 📝
 
 ASP.NET Web APIs 
+Learning about Linux
 
 <!-- 
 ## Contact 📢
