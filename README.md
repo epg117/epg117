@@ -55,7 +55,7 @@ I'm a Software Engineer from Chile
 ## Github Stats
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=epg117&theme=tokyonight&include_all_commits=true&count_private=true&layout=compact&show_icons=true)
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=epg117&theme=tokyonight&include_all_commits=true&count_private=true&layout=compact&show_icons=true)-->
 
 ![Total contributions / streaks](https://github-readme-streak-stats.herokuapp.com/?user=epg117&theme=tokyonight)<br/>
 
