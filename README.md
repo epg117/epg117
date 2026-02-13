@@ -1,22 +1,25 @@
 ### Hello there 👋
 
-<!--
+
 <p align="left">
-  <a href="https://github.com/erziok/erziok">
-    <img src="https://komarev.com/ghpvc/?username=erziok" alt="page views" />
+  <a href="https://github.com/epg117/epg117">
+    <img src="https://komarev.com/ghpvc/?username=epg117" alt="page views" />
   </a>
- -->
-  
-<!--
+
   <a href="https://github.com/erziok?tab=followers">
-    <img alt="GitHub followers erziok" src="https://img.shields.io/github/followers/erziok?color=green&logo=github">
+    <img alt="GitHub followers epg117" src="https://img.shields.io/github/followers/epg117?color=green&logo=github">
   </a>
 </p>
- -->
+
+ ![TUX](https://media.tenor.com/NeJfHqkmdMIAAAAj/tux-linux-penguin.gif)
  
 ## About me 👨‍💻
 
-I'm a Software Engineer from Chile 
+I'm a Software Engineer from Chile.
+
+<!--## I'm currently learning / working on 📝-->
+
+I currently work as a full-stack developer, primarily on projects using React and .NET. In my personal time, I'm constantly learning about Linux and working on small Python projects.
 
 ## I have worked with 💻 
 
@@ -58,12 +61,6 @@ I'm a Software Engineer from Chile
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=epg117&theme=tokyonight&include_all_commits=true&count_private=true&layout=compact&show_icons=true)-->
 
 ![Total contributions / streaks](https://github-readme-streak-stats.herokuapp.com/?user=epg117&theme=tokyonight)<br/>
-
-
-## I'm currently learning / working on 📝
-
-ASP.NET Web APIs <br>
-Learning about Linux
 
 <!-- 
 ## Contact 📢
