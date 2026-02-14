@@ -1,10 +1,10 @@
-### Hello there 👋
+# Hello there 👋
 
 
-<p align="left">
+<!--<p align="left">
   <a href="https://github.com/epg117/epg117">
     <img src="https://komarev.com/ghpvc/?username=epg117" alt="page views" />
-  </a>
+  </a>-->
 
   <a href="https://github.com/erziok?tab=followers">
     <img alt="GitHub followers epg117" src="https://img.shields.io/github/followers/epg117?color=green&logo=github">
