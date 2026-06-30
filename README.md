@@ -11,8 +11,6 @@
   </a>
 </p>
 
- ![TUX](https://media.tenor.com/NeJfHqkmdMIAAAAj/tux-linux-penguin.gif)
- 
 ## About me 👨‍💻
 
 I'm a Software Engineer from Chile.
